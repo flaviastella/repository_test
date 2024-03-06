@@ -1,0 +1,6 @@
+"""File principale 
+
+"""
+
+
+import os
